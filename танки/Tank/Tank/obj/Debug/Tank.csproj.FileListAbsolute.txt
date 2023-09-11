@@ -1,0 +1,8 @@
+C:\Users\Андрей\source\repos\Tank\Tank\bin\Debug\Tank.exe.config
+C:\Users\Андрей\source\repos\Tank\Tank\bin\Debug\Tank.exe
+C:\Users\Андрей\source\repos\Tank\Tank\bin\Debug\Tank.pdb
+C:\Users\Андрей\source\repos\Tank\Tank\obj\Debug\Tank.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\Tank\Tank\obj\Debug\Tank.Properties.Resources.resources
+C:\Users\Андрей\source\repos\Tank\Tank\obj\Debug\Tank.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\Tank\Tank\obj\Debug\Tank.exe
+C:\Users\Андрей\source\repos\Tank\Tank\obj\Debug\Tank.pdb
